@@ -1,0 +1,19 @@
+{
+  "name": "gocarl",
+  "version": "1.0.0",
+  "description": "Vive les petites voitures vive Carl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FlorianMifsud/gocarl.git"
+  },
+  "author": "Florian Mifsud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianMifsud/gocarl/issues"
+  },
+  "homepage": "https://github.com/FlorianMifsud/gocarl#readme"
+}
